@@ -36,6 +36,9 @@ This project uncovers vital insights such as the higher mortality rates in Janua
 ![Slide4](https://github.com/GitWithNeeraj/Wandsworth-2016-Deaths-Data-Analysis/assets/84373485/eead0793-68a2-4e0c-aef8-03f8db134199)
 ![Slide5](https://github.com/GitWithNeeraj/Wandsworth-2016-Deaths-Data-Analysis/assets/84373485/d87066aa-b9e9-4af8-9a04-6a92604753dc)
 
+https://github.com/GitWithNeeraj/Wandsworth-2016-Deaths-Data-Analysis/assets/84373485/904d720c-ca74-4b72-875b-78c43f24e6e5
+
+
 
 
 
