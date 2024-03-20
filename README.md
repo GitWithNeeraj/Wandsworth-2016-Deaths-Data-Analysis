@@ -22,9 +22,9 @@ The goals of this project are to:
 2. Highlight key areas that might benefit from public health interventions.
 3. Provide valuable, data-driven insights for healthcare strategy development, focusing on community-specific needs.
 # Tools and Techniques
-1.Data Visualization and Analysis: Power BI is used exclusively for data visualization and analysis. This tool allows for dynamic, interactive dashboards that bring clarity to complex data sets.
+1. Data Visualization and Analysis: Power BI is used exclusively for data visualization and analysis. This tool allows for dynamic, interactive dashboards that bring clarity to complex data sets.
 2. Data Manipulation and Cleaning: Initial data preparation is performed within Power BI, leveraging its data transformation features.
-Usage
+# Usage
 The Excel file is a source of raw data for reference and potential additional analyses.
 The Power BI file is an interactive tool for exploring and understanding the data in-depth.
 The PowerPoint presentation offers a summarized narrative of the project's key findings and implications.
